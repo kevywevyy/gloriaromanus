@@ -1,0 +1,115 @@
+{
+    "Abilities": {
+        "MeleeCavalry": {
+            "name": "Heroic Charge",
+            "target": "Myself",
+            "attack": 2,
+            "defense": 1,
+            "morale": 1.5,
+            "armour": 1,
+            "speed": 1,
+            "type": "multiplicative"
+        },
+        "PikemenHoplites": {
+            "name": "Phalanx",
+            "target": "Myself",
+            "attack": 1,
+            "defense": 2,
+            "morale": 1,
+            "armour": 1,
+            "speed": 0.5,
+            "type": "multiplicative"
+        },
+        "JavelinSkirmishers": {
+            "name": "Skirmisher Anti-Armour",
+            "target": "Myself",
+            "attack": 1,
+            "defense": 1,
+            "morale": 1,
+            "armour": 0.5,
+            "speed": 1,
+            "type": "multiplicative"
+        },
+        "HorseArchers": {
+            "name": "Cantabrian circle",
+            "target": "Enemy",
+            "attack": 0.5,
+            "defense": 1,
+            "morale": 1,
+            "armour": 1,
+            "speed": 1,
+            "type": "multiplicative"
+        },
+        "Artillery": {
+            "name": "No Ability Name",
+            "target": "Myself",
+            "attack": 1,
+            "defense": 1,
+            "morale": 1,
+            "armour": 1,
+            "speed": 1,
+            "type": "multiplicative"
+        },
+        "Druids": {
+            "name": "No Ability Name",
+            "target": "Myself",
+            "attack": 1,
+            "defense": 1,
+            "morale": 1,
+            "armour": 1,
+            "speed": 1,
+            "type": "multiplicative"
+        },
+        "Elephants": {
+            "name": "No Ability Name",
+            "target": "Myself",
+            "attack": 1,
+            "defense": 1,
+            "morale": 1,
+            "armour": 1,
+            "speed": 1,
+            "type": "multiplicative"
+        }, 
+        "MeleeInfantry": {
+            "name": "No Ability Name",
+            "target": "Myself",
+            "attack": 1,
+            "defense": 1,
+            "morale": 1,
+            "armour": 1,
+            "speed": 1,
+            "type": "multiplicative"
+        },
+        "MissileInfantry": {
+            "name": "No Ability Name",
+            "target": "Myself",
+            "attack": 1,
+            "defense": 1,
+            "morale": 1,
+            "armour": 1,
+            "speed": 1,
+            "type": "multiplicative"
+        },
+        "LegionaryUnit": {
+            "name": "No Ability Name",
+            "target": "Myself",
+            "attack": 1,
+            "defense": 1,
+            "morale": 1,
+            "armour": 1,
+            "speed": 1,
+            "type": "multiplicative"
+        }, 
+        "Berserker": {
+                "name": "No Ability Name",
+                "target": "Myself",
+                "attack": 1,
+                "defense": 1,
+                "morale": 1,
+                "armour": 1,
+                "speed": 1,
+                "type": "multiplicative"
+        }
+
+    }
+}

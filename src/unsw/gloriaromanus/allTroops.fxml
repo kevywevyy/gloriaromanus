@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Background?>
+<?import javafx.scene.layout.BackgroundFill?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxWidth="250" prefHeight="483.0" prefWidth="220.0" spacing="10" styleClass="panel-region" stylesheets="/unsw/gloriaromanus/style.css" StackPane.alignment="TOP_RIGHT" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="unsw.gloriaromanus.MenuController">
+    <padding>
+        <Insets topRightBottomLeft="10" />
+    </padding>
+    <background>
+        <Background>
+            <fills>
+                <BackgroundFill>
+                    <fill>
+                        <Color opacity="0.5" />
+                    </fill>
+                </BackgroundFill>
+            </fills>
+        </Background>
+    </background>
+    <Button onAction="#clickedTrainingButton" text="Back to Training Menu" />
+   <Pane prefHeight="506.0" prefWidth="200.0">
+      <children>
+         <ChoiceBox fx:id="selectedTroopChoiceBox" layoutY="54.0" prefHeight="27.0" prefWidth="200.0" style="-fx-background-color: #add8e6;" styleClass="cb" stylesheets="@style.css" />
+         <Label layoutX="71.0" layoutY="5.0" text="All Troops">
+            <font>
+               <Font size="14.0" />
+            </font>
+         </Label>
+         <Label layoutX="15.0" layoutY="30.0" text="Select Troop to view stats:" />
+         <Label layoutX="1.0" layoutY="90.0" text="Troop Size:" />
+         <Label fx:id="troopSizeNum" layoutX="120.0" layoutY="90.0" text="troopSizeNum" />
+         <Label layoutX="1.0" layoutY="120.0" text="Attack:" />
+         <Label layoutX="1.0" layoutY="150.0" text="Speed:" />
+         <Label layoutX="1.0" layoutY="180.0" text="Armour:" />
+         <Label layoutX="1.0" layoutY="210.0" text="Morale:" />
+         <Label layoutX="1.0" layoutY="240.0" text="Charge Statistic:" />
+         <Label layoutX="1.0" layoutY="270.0" text="Defense Skill:" />
+         <Label layoutX="1.0" layoutY="300.0" text="Shield Defense:" />
+         <Label layoutX="1.0" layoutY="330.0" text="Troop Gold Cost:" />
+         <Label layoutX="1.0" layoutY="390.0" text="Training Time Cost:" />
+         <Label layoutX="1.0" layoutY="360.0" text="Movement Points:" />
+         <Label fx:id="attackNum" layoutX="120.0" layoutY="120.0" text="attackNum" />
+         <Label fx:id="speedNum" layoutX="120.0" layoutY="150.0" text="speedNum" />
+         <Label fx:id="armourNum" layoutX="120.0" layoutY="180.0" text="armourNum" />
+         <Label fx:id="moraleNum" layoutX="120.0" layoutY="210.0" text="moraleNum" />
+         <Label fx:id="chargeStatNum" layoutX="120.0" layoutY="240.0" text="chargeStatNum" />
+         <Label fx:id="defSkillNum" layoutX="120.0" layoutY="270.0" text="defSkillNum" />
+         <Label fx:id="shieldDefNum" layoutX="120.0" layoutY="300.0" text="shieldDefNum" />
+         <Label fx:id="troopGoldNum" layoutX="120.0" layoutY="330.0" text="troopGoldNum" />
+         <Label fx:id="mpNum" layoutX="120.0" layoutY="360.0" text="mpNum" />
+         <Label fx:id="trainTimeNum" layoutX="120.0" layoutY="390.0" text="trainTimeNum" />
+      </children>
+   </Pane>
+</VBox>

@@ -1,0 +1,1193 @@
+{
+  "provinces": [
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Lugdunensis",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 1,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 2,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Lusitania",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 3,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 4,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Lycia et Pamphylia",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 5,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 6,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Macedonia",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 7,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 8,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Mauretania Caesariensis",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 9,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 10,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Mauretania Tingitana",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 11,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 12,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Moesia Inferior",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 13,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 14,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Moesia Superior",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 15,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 16,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Narbonensis",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 17,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 18,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Noricum",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 19,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 20,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Numidia",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 21,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 22,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Pannonia Inferior",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 23,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 24,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Pannonia Superior",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 25,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 26,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Raetia",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 27,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 28,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Sardinia et Corsica",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 29,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 30,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Sicilia",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 31,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 32,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 60,
+      "taxRate": "LowTax",
+      "trainingUnits": [],
+      "name": "Syria",
+      "units": [],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Tarraconensis",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 35,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 36,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Thracia",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 37,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 38,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "V",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 39,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 40,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "VI",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 41,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 42,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "VII",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 43,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 44,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "VIII",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 45,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 46,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "X",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 47,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 48,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "XI",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 49,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 50,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Achaia",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 51,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 52,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Aegyptus",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 53,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 54,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Africa Proconsularis",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 55,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 56,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Alpes Cottiae",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 57,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 58,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Alpes Graiae et Poeninae",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 59,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 60,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Alpes Maritimae",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 61,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 62,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Aquitania",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 63,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 64,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Arabia",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 65,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 66,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Armenia Mesopotamia",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 67,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 68,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Asia",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 69,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 70,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Baetica",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 71,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 72,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Belgica",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 73,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 74,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Bithynia et Pontus",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 75,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 76,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Britannia",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 77,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 78,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Cilicia",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 79,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 80,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Creta et Cyrene",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 81,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 82,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 60,
+      "taxRate": "LowTax",
+      "trainingUnits": [],
+      "name": "Cyprus",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 83,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 84,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Dacia",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 85,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 86,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Dalmatia",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 87,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 88,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Galatia et Cappadocia",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 89,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 90,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Germania Inferior",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 91,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 92,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Germania Superior",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 93,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 94,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "I",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 95,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 96,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "II",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 97,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 98,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "III",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 99,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 100,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "IV",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 101,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 102,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "IX",
+      "units": [
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 103,
+          "numTroops": 8
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 104,
+          "numTroops": 15
+        }
+      ],
+      "conqueredInCurrTurn": false
+    },
+    {
+      "owner": "Romans",
+      "wealth": 10,
+      "taxRate": "NormalTax",
+      "trainingUnits": [],
+      "name": "Iudaea",
+      "units": [
+        {
+          "canMove": true,
+          "name": "LegionaryUnit",
+          "id": 107,
+          "numTroops": 1
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 110,
+          "numTroops": 15
+        },
+        {
+          "canMove": true,
+          "name": "MeleeCavalry",
+          "id": 33,
+          "numTroops": 2
+        },
+        {
+          "canMove": true,
+          "name": "MeleeInfantry",
+          "id": 109,
+          "numTroops": 23
+        },
+        {
+          "canMove": true,
+          "name": "MissileInfantry",
+          "id": 34,
+          "numTroops": 9
+        }
+      ],
+      "conqueredInCurrTurn": false
+    }
+  ],
+  "numProduced": 110,
+  "year": 205,
+  "noWinnerYet": false,
+  "player0Turn": false,
+  "romansPlayer": "player1",
+  "gaulsPlayer": "player0",
+  "factions": [
+    {
+      "treasury": 256,
+      "name": "Romans",
+      "winConditions": 1
+    },
+    {
+      "treasury": 4,
+      "name": "Gauls",
+      "winConditions": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Background?>
+<?import javafx.scene.layout.BackgroundFill?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Font?>
+
+<VBox maxWidth="250" prefHeight="518.0" prefWidth="220.0" spacing="10" styleClass="panel-region" stylesheets="/unsw/gloriaromanus/style.css" StackPane.alignment="TOP_RIGHT" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="unsw.gloriaromanus.MenuController">
+    <padding>
+        <Insets topRightBottomLeft="10" />
+    </padding>
+    <background>
+        <Background>
+            <fills>
+                <BackgroundFill>
+                    <fill>
+                        <Color opacity="0.5" />
+                    </fill>
+                </BackgroundFill>
+            </fills>
+        </Background>
+    </background>
+    <Button onAction="#goBackToProvinceMenu" text="Back to Province menu" />
+   <Pane prefHeight="522.0" prefWidth="200.0">
+      <children>
+         <Label layoutX="41.0" layoutY="5.0" text="Currently in Training">
+            <font>
+               <Font size="14.0" />
+            </font>
+         </Label>
+         <Label fx:id="unitInTraining1" layoutX="14.0" layoutY="40.0" prefHeight="17.0" prefWidth="80.0" text="null" />
+         <Label fx:id="unitInTraining2" layoutX="14.0" layoutY="73.0" prefHeight="17.0" prefWidth="80.0" text="null" />
+         <Label layoutX="131.0" layoutY="40.0" text="Turns Left" />
+         <Label fx:id="numTurnsLeft2" layoutX="131.0" layoutY="73.0" text="Turns Left" />
+         <Label layoutX="10.0" layoutY="256.0" text="Select Troops to Train:" />
+         <ChoiceBox fx:id="troopToTrainChoiceBox" layoutX="10.0" layoutY="280.0" prefHeight="27.0" prefWidth="180.0" style="-fx-background-color: #add8e6;" styleClass="cb" stylesheets="@style.css" />
+         <Button fx:id="seeAllTroopsButton" layoutX="10.0" layoutY="217.0" mnemonicParsing="false" onAction="#goToAllTroopDetailMenu" prefHeight="27.0" prefWidth="180.0" text="See Details of All Troops" />
+         <Button layoutX="100.0" layoutY="420.0" mnemonicParsing="false" onAction="#clickedTrainTroopButton" text="Train Troops" />
+         <Label fx:id="numTurnsLeft1" layoutX="113.0" layoutY="40.0" prefHeight="17.0" prefWidth="18.0" text="?" />
+         <Label fx:id="numTurnsLeft2" layoutX="113.0" layoutY="73.0" prefHeight="17.0" prefWidth="18.0" text="?" />
+         <Button layoutX="10.0" layoutY="127.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="180.0" onAction="#clickedRefundTroop1" text="Refund Troop 1" />
+         <Button layoutX="10.0" layoutY="172.0" mnemonicParsing="false" prefHeight="27.0" prefWidth="180.0" onAction="#clickedRefundTroop2" text="Refund Troop 2" />
+         <Label layoutX="10.0" layoutY="102.0" text="Troops to Refund:" />
+      </children>
+   </Pane>
+</VBox>
