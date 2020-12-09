@@ -10,18 +10,6 @@
 
 * Learn the application of design patterns
 
-## Due Dates
-
-Milestone 1: 5pm Sunday Week 5 (Demonstration: Week 7 Lab)
-
-Milestone 2: 5PM Sunday Week 7 (Demonstration: Week 8 Lab)
-
-Final milestone: 5PM Sunday Week 9 (Demonstration: Week 10 Lab)
-
-**NOTE:** There is **NO** provision for late submissions with a late penalty. Not submitting by the deadline is considered non-submission.
-
-## Value: 35 marks
-
 ---
 
 ## Simplified Project Spec
